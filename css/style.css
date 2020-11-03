@@ -1,0 +1,132 @@
+body {
+    font-family: "Lato", sans-serif;
+    background: url(../img/happy-woman-in-yellow-sweater.jpg) no-repeat;
+    
+}
+.ingreso-head{
+    height: 150px;
+    background: #FFF;
+}
+
+.content {
+    width: 600px;
+    margin: 0 auto 0 auto;
+    padding: 5px;
+    background-color: #000000;
+    color: #fff;
+    }
+
+.content img {
+     max-width: 100%; 
+    }
+
+.boton{
+    padding: 0% 1% 0% 1% ;
+    margin: 10px ;
+    display: flex;
+    justify-content: center;
+    
+    }
+
+.boton .ingreso{
+    margin: 5px;
+    
+    }
+
+.boton img {
+    height: 20px;
+    width: 20px;
+    padding-bottom: 3px;
+    padding-top: 0px
+}
+
+.izquierdo-intro {
+    height: 100%;
+    background: url(../img/fondo-instagram-4-360x640.jpg) no-repeat;
+    padding-top: 20px;
+    width: 35%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    
+}
+.izquierdo-intro #insta{
+    width: 60%;
+    margin:30% 20% 0% 20%;
+    
+    
+}
+.izquierdo-intro p{
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 0.1em 0.1em 0.2em #000000;
+}
+
+.ingreso {
+    padding: 0px 20px;
+   
+}
+.form-group label{
+    font-size: 15px;
+    color: #ffffff;
+}
+a{  
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    padding: 20%;
+}  
+.boton a{  
+    color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+    padding: 20%;
+}  
+p{
+    text-align: center;
+    color: #3b3b3b7c;
+}
+.form-group #ingreso{
+    padding: 2px 12px;
+}
+
+.login-ingreso-text{
+    margin-top: 20%;
+    padding: 60px;
+    color: #fff;
+}
+
+.login-ingreso-text h2{
+    font-weight: 300;
+}
+
+.register-form{
+    margin-top: 10%;
+}
+.input #placeholder{
+    font-size: 17px;
+}
+
+.containerdatos{
+    display: flex;
+    justify-content: center;
+    
+    width: 400px;
+    margin-top: 3%;
+    margin-left: 63%;
+    margin-right: 50px;
+    background: #9797976e;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 10px;
+}
+.containerdatos #imagencuadro {
+    width: 100%;
+}
+
+
+
+

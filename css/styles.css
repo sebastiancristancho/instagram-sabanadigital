@@ -1,0 +1,84 @@
+body {
+    font-family: "Lato", sans-serif;
+    background: url(../img/Cresp.jpg) no-repeat;
+    
+}
+.boton{
+    padding: 0% 1% 0% 1% ;
+    margin: 10px ;
+    display: flex;
+    justify-content: center;
+    
+    }
+
+.boton .ingreso{
+    margin: 5px;
+    
+    }
+
+.boton img {
+    height: 20px;
+    width: 20px;
+    padding-bottom: 3px;
+    padding-top: 0px
+}
+.ingreso {
+    padding: 0px 20px;
+   
+}
+.form-group label{
+    font-size: 15px;
+    color: #ffffff;
+}
+a{  
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    padding: 20%;
+}  
+p{
+    text-align: center;
+    color: #ffffff;
+}
+.form-group #ingreso{
+    padding: 2px 12px;
+}
+
+.login-ingreso-text{
+    margin-top: 20%;
+    padding: 60px;
+    color: #fff;
+}
+
+.login-ingreso-text h2{
+    font-weight: 300;
+}
+
+.register-form{
+    margin-top: 10%;
+}
+.input #placeholder{
+    font-size: 17px;
+}
+
+.containerdatos{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    margin-top: 1.5%;
+    margin-left: 50%;
+    margin-right: 50px;
+    background: #9797976e;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 10px;
+}
+.containerdatos #imagencuadro {
+    width: 100%;
+}
+
+
+
